@@ -125,9 +125,8 @@ TaskFlowPro/
 
 ## 🏠 Landing Page
 
-```html
-<img width="1900" alt="Landing Page" src="YOUR_IMAGE_LINK"/>
-```
+<img width="1892" height="1026" alt="Screenshot 2026-06-27 103546" src="https://github.com/user-attachments/assets/61148a4d-d3e5-4c66-a226-3d3f81247974" />
+
 
 ---
 
